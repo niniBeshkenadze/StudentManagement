@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StudentManagement
+namespace StudentManagement.UI
 {
-    internal class StudentService
+    internal interface StudentInterface
     {
     }
 }
